@@ -1,0 +1,29 @@
+1. ПКМ src -> New -> Java Class
+   src -> Alt + Insert
+
+Class name: HelloWorld
+
+public class HelloWorld {
+}
+
+2. psvm + Tab
+public class HelloWorld {
+    public static void main(String[] args) {
+    }
+}
+
+3. sout + Tab
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println();
+    }
+}
+
+4.
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world");
+    }
+}
+
+5. Run
