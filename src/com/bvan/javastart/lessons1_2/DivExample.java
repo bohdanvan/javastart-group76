@@ -1,7 +1,9 @@
+package com.bvan.javastart.lessons1_2;
+
 /**
  * @author bvanchuhov
  */
-public class Div {
+public class DivExample {
 
     public static void main(String[] args) {
         System.out.println(10 / 4); // 2
