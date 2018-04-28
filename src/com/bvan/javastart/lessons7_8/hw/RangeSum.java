@@ -5,7 +5,7 @@ public class RangeSum {
     public static void main(String[] args) {
         System.out.println(rangeSum(1, 3)); // 6
         System.out.println(rangeSum(1, 100)); // 5050
-        System.out.println(rangeSum(10, 5));
+//        System.out.println(rangeSum(10, 5)); // IllegalArgumentException
     }
 
     public static int rangeSum(int from, int to) {
